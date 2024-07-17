@@ -1,0 +1,8 @@
+Password: Atten@
+
+How to Install
+--------------------
+01. Extract the file using Winrar. (Download Winrar)
+02. Open "AMS - Setup - Debug" folder, double click on "Setup" and install it.
+03. After installation complete,
+04. Open application from desktop or start  menu. Done!
